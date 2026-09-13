@@ -3,7 +3,7 @@ A comparison of the RAL, ReAct, Tri-Agent Problem Solving, Unchecked Tri-Agent a
 
 DataBench can be found on [Huggingface](https://huggingface.co/datasets/cardiffnlp/databench).
 
-More on the Tri-Agent architecture can be found in its [own repository](https://github.com/StrouggisGiorgos/Tri-Agent_Problem_Solving/tree/main).
+More on the Tri-Agent architecture can be found in its [own repository](https://github.com/StrouggisGiorgos/Tri-Agent_Problem_Solving).
 
 The Auto-Checked ablation of the framework is expressed in the following flowchart:
 
